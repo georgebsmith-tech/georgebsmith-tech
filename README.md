@@ -1,19 +1,19 @@
 # Hi there, I'm George Smith! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;Full-Stack+Developer;AI+%26+Analytics+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=AI+Engineer;Data+Scientist%2FAnalyst;Full-Stack+Software+Engineer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist** and **Machine Learning Engineer** with expertise in building end-to-end ML solutions and full-stack applications. I love turning complex data into actionable insights and creating intelligent systems that make a real impact.
+I'm a passionate **AI Engineer**, **Data Scientist/Analyst**, and **Full-Stack Software Engineer** with expertise in building end-to-end ML solutions and intelligent applications. I love turning complex data into actionable insights and creating systems that make a real impact.
 
 - 🔭 Currently working on **AI-powered applications** and **data engineering pipelines**
 - 🌱 Learning **MLOps**, **Cloud Architecture**, and **Advanced Deep Learning**
 - 👯 Looking to collaborate on **open source ML projects** and **innovative data solutions**
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Engineering**, **Web Development**
-- 📫 How to reach me: **[your-email@example.com]** | **[LinkedIn](https://linkedin.com/in/your-profile)**
-- ⚡ Fun fact: I enjoy building AI models that can detect plant diseases! 🌱
+- 📫 How to reach me: **georgebsmith.tech@gmail.com** | **[LinkedIn](https://linkedin.com/in/georgebsmith-tech)**
+- ⚡ Fun fact: I enjoy teaching, mentoring, and bodybuilding! 💪
 
 ## 🛠️ Tech Stack
 
@@ -75,10 +75,10 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with exper
 
 ## 🎯 Current Focus
 
+- 🏗️ Mastering **Core System Design** principles and architecture
 - 🤖 Building **MLOps pipelines** for production ML systems
 - 🌐 Developing **AI-powered web applications**
 - 📊 Creating **real-time analytics dashboards**
-- 🔬 Researching **computer vision** applications in agriculture
 - 📚 Contributing to **open-source ML libraries**
 
 ## 🏗️ Featured Projects
@@ -106,11 +106,9 @@ Scalable data processing pipeline for handling large-scale datasets with ML mode
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgebsmith-tech)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/georgebsmith-tech)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgebsmith.tech@gmail.com)
 
 </div>
 
